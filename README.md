@@ -9,17 +9,17 @@ The College Course & Registration Management System (CCRM) is designed to bring 
 The project focuses on applying Object-Oriented Programming and core Java concepts to a practical academic management system.
  Features
 
-- 👨‍🎓 Add and display students
-- 📚 Add and display courses
-- 📝 Enroll students in courses
-- 🚫 Prevent duplicate enrollments
-- ⚠️ Enforce an 18-credit maximum
-- 📊 Record percentage marks
-- 🎓 Convert marks into grades
-- 📄 Generate student transcripts
-- 📈 Calculate credit-weighted GPA
-- 💾 Directory backup utility
-- 🛡️ Custom exceptions for enrollment validation
+ Add and display students 
+ Add and display courses
+ Enroll students in courses
+ Prevent duplicate enrollments
+ Enforce an 18-credit maximum
+ Record percentage marks
+ Convert marks into grades
+ Generate student transcripts
+ Calculate credit-weighted GPA
+ Directory backup utility
+ Custom exceptions for enrollment validation
 
 Technologies Used
 
@@ -137,13 +137,13 @@ Future Improvements
 
 Possible future enhancements include:
 
-- 🗄️ Database integration
-- 🔐 Login and role-based access
-- 🌐 Web or desktop interface
-- ✅ Automated testing
-- 🔎 Stronger input validation
-- 💾 Database-backed persistent records
-- 📦 Backup option directly from the main CLI menu
+ Database integration
+ Login and role-based access
+ Web or desktop interface
+ Automated testing
+ Stronger input validation
+ Database-backed persistent records
+ Backup option directly from the main CLI menu
  Testing
 
 The application was manually tested using normal and invalid scenarios, including:
